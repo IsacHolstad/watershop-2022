@@ -9,12 +9,14 @@
     background-color: #1fab89;
     padding: 20px;
     font-size: 20px;
-    color: white;
+
+    
     
 }
 .navbar a{
     text-decoration: none;
-    color: inherit;
+    color: white;
+    margin-right: 20px;
 }
 
 .water-logo{
@@ -33,15 +35,17 @@
 }
 
 
+
 .imsdalwater-bottel {
     height: 400px;
     display: flex;
+    margin-left: 50px;
     flex-direction: column;
     margin-top: 50px;
 }
 .imsdalwater-bottel:hover{
     height: 400px;
-    transform: rotateZ(10deg);
+    transform: rotateZ(4deg);
     cursor: pointer;
    
 }
