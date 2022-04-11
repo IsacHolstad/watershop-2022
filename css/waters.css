@@ -40,6 +40,8 @@
     margin-top: 50px;
 }
 .imsdalwater-bottel:hover{
-    height: 414px;
-    box-shadow: 0 0 50px;
+    height: 400px;
+    transform: rotateZ(10deg);
+    cursor: pointer;
+   
 }
