@@ -33,3 +33,13 @@
 }
 
 
+.imsdalwater-bottel {
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 50px;
+}
+.imsdalwater-bottel:hover{
+    height: 414px;
+    box-shadow: 0 0 50px;
+}
