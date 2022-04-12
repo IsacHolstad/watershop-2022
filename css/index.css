@@ -31,7 +31,13 @@
     display: flex;
     gap: 25px;
 }
-
+.main-ptag{
+    margin-top: 150px;
+    width: 50%;
+}
+p {
+    text-align: center;
+}
 
 @media screen and (max-width:500px) {
     *{
