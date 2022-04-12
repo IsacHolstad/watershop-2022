@@ -36,18 +36,8 @@
     margin-top: 150px;
     width: 35%;
 }
-.farrisbottel{
-    display: flex;
-    height: 400px;
-    flex-direction: column;
-    margin-top: 100px;
-}
-.farrisbottel:hover{
-    transform: rotateZ(5deg);
-}
-#datetag{
-    margin-top: 50px;
-}
+
+
 .jslink{
     list-style: none;
     font-size: 25px;
