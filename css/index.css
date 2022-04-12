@@ -17,6 +17,7 @@
     color: inherit;
 }
 
+
 .water-logo{
     width: 150px;
     display: inline;
@@ -36,15 +37,18 @@
     width: 35%;
 }
 .farrisbottel{
-  
     display: flex;
+    height: 400px;
     flex-direction: column;
     margin-top: 100px;
+}
+.farrisbottel:hover{
+    transform: rotateZ(5deg);
 }
 
 .footer{
     position: absolute;
-    bottom: 0px;
+    top: 2500px;
     width: 100%;
     background-color: #1fab89;
     height: 150px;
