@@ -53,6 +53,9 @@
     background-color: #1fab89;
     height: 150px;
 }
+#datetag{
+    margin-top: 50px;
+}
 
 @media screen and (max-width:500px) {
     *{
